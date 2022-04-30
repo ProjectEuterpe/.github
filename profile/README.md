@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="projecteuterpe.png" width=50% height=50%>
+  <img src="https://github.com/ProjectEuterpe/.github/blob/main/profile/projecteuterpe.png" width=50% height=50%>
 </p>
 
 ## Project Euterpe
@@ -20,7 +20,7 @@ Project Euterpe is our software engineering course project. This project require
 The overall architecture of this project is as follows:
 
 <p align="center">
-  <img src="arch.png" width=80% height=80%>
+  <img src="https://github.com/ProjectEuterpe/.github/blob/main/profile/arch.png" width=80% height=80%>
 </p>
 
 The basic design idea of the project is to separate front-end and back-end development, using Qt framework to implement UI, interaction, asynchronous control and connection to back-end database. The project is using MVC (Model-View-Controller) design pattern, with the playback engine as the model part, the media library and the playback component as the view part, and the signal-and-slot-based asynchronous calls as the controller part. Read our [Architecture Design Document](https://enedlzm696.feishu.cn/docs/doccnDZX0rMaPVhaMSsHY9caj3g) for further understanding of the architecture design.
