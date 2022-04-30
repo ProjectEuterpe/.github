@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - [What the hell is Euterpe?](https://en.wikipedia.org/wiki/Euterpe)
+- [What exactly we are doing?](https://bytedance.feishu.cn/docx/doxcnIFNVSangxAHqoUlRolZQ3e)
 - [Product Requirement Document](https://mtgacbsz7j.feishu.cn/docs/doccnV3agfGvVS3CWeCcpSnNyoc)
 - [Interaction Design Document](https://enedlzm696.feishu.cn/docs/doccnGP9zYPlY059A3I4s8UCCQb)
 - [Architecture Design Document](https://enedlzm696.feishu.cn/docs/doccnDZX0rMaPVhaMSsHY9caj3g#)
