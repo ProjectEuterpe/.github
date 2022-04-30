@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[Architecture Design Document](https://enedlzm696.feishu.cn/docs/doccnDZX0rMaPVhaMSsHY9caj3g#)
+
 <!--
 
 **Here are some ideas to get you started:**
